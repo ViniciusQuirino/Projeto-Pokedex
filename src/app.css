@@ -1,0 +1,10 @@
+body{
+    background-color: var(--transluce-grey);
+}
+
+.display{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    gap: 20px;
+}
